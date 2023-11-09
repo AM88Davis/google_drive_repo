@@ -1,0 +1,4 @@
+Connect to tenant admin site https://validanto365-admin.sharepoint.com
+Connect to Azure AD
+General Azure AD validation
+Validating rows in OsamRenamedSites(temp3).csv...
